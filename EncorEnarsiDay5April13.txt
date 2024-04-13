@@ -853,7 +853,7 @@ interface Vlan1
  ip address 10.10.1.20 255.255.255.0
  end
 
-@@@@@
+@@@@@!!
 Task 1. Configure Rapid PVST+ on SW20:
 
 SW20#conf t
@@ -896,7 +896,7 @@ this command will be applied automatically
 @@@@@@ lab2   @@@@@@@@@@@
 @@@@@@ lab2   @@@@@@@@@@@
 
-LACP & Root Bridge Sim
+LACP & Root Bridge Sim !!
 
 Tasks
 
